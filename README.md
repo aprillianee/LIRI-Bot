@@ -48,7 +48,7 @@ Displays the following information about the movie entered in the terminal/bash 
 
 FS NPM Package - https://nodejs.org/api/fs.html
 
-Using the `fs` node package, LIRI will take the text inside random.txt and then use it to call one of LIRI's four commands. The output will be displayed in the terminal/bash window and logged in `log.txt`.
+Using the fs node package, LIRI will take the text inside random.txt and then use it to call one of LIRI's four commands. The output will be displayed in the terminal/bash window and logged in `log.txt`.
 
 ## Examples
 ![Alt text](images/tweets.jpg 'Tweets')
